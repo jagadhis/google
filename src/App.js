@@ -15,7 +15,6 @@ function App() {
             <Home />
           </Route>
         </Switch>
-        <h1>Lets build a google clone 🚀</h1>
       </Router>
     </div>
   );
