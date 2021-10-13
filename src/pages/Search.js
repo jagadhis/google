@@ -49,7 +49,6 @@ function Search({ hideButtons = false }) {
           </Button>
         </div>
       )}
-      ;
     </div>
   );
 }
